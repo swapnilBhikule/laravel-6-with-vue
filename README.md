@@ -1,6 +1,3 @@
-#### CEX TEST
-----
-
 ###### Technology Stack
 ----
 - PHP 7.2.x or higher
